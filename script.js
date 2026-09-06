@@ -5,28 +5,28 @@
 --------------------------------------------------------- */
 const PROJECTS = [
   {
-    title: "Project One",
-    description: "A short, plain-language description of what this project does and the problem it solves.",
-    tags: ["JavaScript", "Node.js"],
-    repo: "https://github.com/yourusername/project-one"
+    title: "NYC Restaurant Inspection Pipeline",
+    description: "A full pipeline from a public, updated API to raw cloud storage, cleaning, database integration, and finally to an interactive web dashboard.",
+    tags: ["Python", "Pipeline", "SQL"],
+    repo: "https://github.com/davida2597/NYC-Restaurant-Inspection-Pipeline"
   },
   {
-    title: "Project Two",
-    description: "A short, plain-language description of what this project does and the problem it solves.",
-    tags: ["Python", "Data"],
-    repo: "https://github.com/yourusername/project-two"
+    title: "GPU Webscraping Project",
+    description: "Final project for ECEN360 where we developed a full pipeline that retrieves data from eBay and cleans it for day-to-day collection and studied GPU trends over the past years.",
+    tags: ["Jupyter", "Webscraping"],
+    repo: "https://github.com/davida2597/GPU-Webscraping"
   },
   {
-    title: "Project Three",
-    description: "A short, plain-language description of what this project does and the problem it solves.",
-    tags: ["React", "CSS"],
-    repo: "https://github.com/yourusername/project-three"
+    title: "Mai Shan Yun Restaurant Dashboard",
+    description: "A restaurant-based operation system that completes basic restaurant functions such as taking orders and updating availability of menu items.",
+    tags: ["Python", "SQL"],
+    repo: "https://github.com/andy-rdzzz/TAMU-Hackathon-2026"
   },
   {
-    title: "Project Four",
-    description: "A short, plain-language description of what this project does and the problem it solves.",
-    tags: ["TypeScript"],
-    repo: "https://github.com/yourusername/project-four"
+    title: "Roni’s Restaurant Data Analyst Project",
+    description: "An interactive Tableau interactive dashboard visualizing real restaurant data from Roni's Mac and Cheese.",
+    tags: ["Python", "Tableau"],
+    repo: "https://github.com/Squishyman3005/TAMUDatathon"
   }
 ];
 
